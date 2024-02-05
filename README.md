@@ -1,1 +1,1 @@
-# one_click
+# educational.github.io

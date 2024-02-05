@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+} 
+
+.green{
+    width: 100%;
+    height: 100vh;
+    background-image:url(./login/ai-generated.jpg) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.white{
+    width: 400px;
+    height: 450px;
+    background-image:url(./images/digital.jpg);
+    border-radius: 8px
+} 
+.white .text{
+    width: 400px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+.white .text-2{
+    width: 400px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.white .text h1{
+    font-family: 'Roboto', sans-serif;
+}
+.white .text-2 h5{
+    font-family: 'Roboto', sans-serif;
+}
+.white .form{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.white .form input{
+    display: block;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid rgb(42, 12, 133);
+    margin-bottom: 20px;
+}
+.form button{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    background-image: url(log.jpg);
+    margin-left: 25px;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+}
+.white .link{
+    width: 400px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signup-link{
+    width: 400px;
+    height: 15px;
+    position: absolute;
+    left: 565px;
+    top: 600px;
+    
+}
+
+.white .text{
+    width: 400px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+.white .text-2{
+    width: 400px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.white .text h1{
+    font-family: 'Roboto', sans-serif;
+}
+.white .text-2 h5{
+    font-family: 'Roboto', sans-serif;
+}
+.white .form{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.white .form input{
+    display: block;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    margin-bottom: 20px;
+}
+.form button{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    background-image: url(log.jpg);
+    margin-left: 25px;
+    color:aliceblue;
+    font-size: 22px;
+    cursor: pointer;
+}
+.white .link{
+    width: 400px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signup-link{
+    width: 400px;
+    height: 15px;
+    position: absolute;
+    left: 565px;
+    top: 600px;
+    
+    
+}
