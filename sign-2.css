@@ -17,7 +17,7 @@
 .white{
     width: 400px;
     height: 450px;
-    background-image:url(./images/digital.jpg);
+    
     border-radius: 8px
 } 
 .white .text{
@@ -141,8 +141,8 @@
     width: 400px;
     height: 15px;
     position: absolute;
-    left: 565px;
-    top: 600px;
+    left: 540px;
+    top: 540px;
     
     
 }

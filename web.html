@@ -15,7 +15,7 @@
    <body style="background-color: black;">
     <section class="header">
       <nav>
-        <a href="index.html"><img src="c:\Users\DELL\Desktop\web\try web\educationalWebsite-main\images\logooneclick.png" alt="" /></a>
+        <a href="index.html"><img src="./images/logooneclick.png" alt="" /></a>
         <div class="nav-links" id="navLinks">
           <i class="fa-solid fa fa-xmark" onclick="hideMenu()"></i>
           <ul>
@@ -32,6 +32,75 @@
 </head>
 <body>
     <h1>WEB DEVELOPMENT</h1>
+    <div class="accordian">
+  	  <div class="card">
+  	  	  <div class="card-header">
+  	  	  	 <h3>Introduction to Cyber Security</h3>
+  	  	  	 <span class="fa fa-minus"></span>
+  	  	  </div>
+  	  	  <div class="card-body active">
+            <ol>
+              <li><a href="">___</a></li>
+  	  	  	  
+
+            </ol>
+  	  	  </div>
+  	  </div>
+
+  	  <div class="card">
+  	  	  <div class="card-header">
+  	  	  	 <h3>Heading Two </h3>
+  	  	  	 <span class="fa fa-plus"></span>
+  	  	  </div>
+  	  	  <div class="card-body">
+            <ol>
+              <li><a href=" ">___</a></li>
+  	  	  	  
+
+            </ol>
+  	  	  </div>
+  	  </div>
+  	  <div class="card">
+  	  	  <div class="card-header">
+  	  	  	 <h3>Heading Three </h3>
+  	  	  	 <span class="fa fa-plus"></span>
+  	  	  </div>
+  	  	  <div class="card-body">
+            <ol>
+              <li><a href=" ">___</a></li>
+  	  	  	  
+
+            </ol>
+  	  	  </div>
+  	  </div>
+  </div>
+
+  
+  
+  <!-- jqurey code -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  
+  <script>
+    $(document).ready(function(){
+      $(".card-header").click(function(){
+         // self clicking close
+         if($(this).next(".card-body").hasClass("active")){
+           $(this).next(".card-body").removeClass("active").slideUp()
+          $(this).children("span").removeClass("fa-minus").addClass("fa-plus")	
+         }
+       else{
+       $(".card .card-body").removeClass("active").slideUp()
+       $(".card .card-header span").removeClass("fa-minus").addClass("fa-plus");
+         $(this).next(".card-body").addClass("active").slideDown()
+          $(this).children("span").removeClass("fa-plus").addClass("fa-minus")
+        }
+      })
+    })
+  
+  </script>
+  
+  
+  
     
-</body>
+  </body>
 </html>

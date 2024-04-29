@@ -10,7 +10,7 @@ h3{
 .header {
   min-height: 100vh;
   width: 100%;
-  background-color: #0c0f4eaa;
+  background-image: url(./images/digital.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -152,7 +152,8 @@ p {
 }
 .course-col {
   flex-basis: 31%;
-  background-color: #0c1056bc;
+  background-color:
+  color(srgb red green blue)
   border-radius: 10px;
   margin-bottom: 5%;
   padding: 20px 12px;
@@ -515,7 +516,7 @@ footer */
 .white{
   width: 400px;
   height: 600px;
-  background-image: url(./images/digital.jpg);
+
   border-radius: 8px
 }
 .text{
@@ -598,7 +599,7 @@ footer */
 
 /*terms*/
 .terms{
-  color: black;
+  color:aliceblue;
   text-align: left;
 }
 
@@ -628,7 +629,7 @@ body{
 	cursor: pointer;
 	color:#ffffff;
 	position: relative;
-	background-color: #3343a2;
+	background-color: black;
 	margin:0;
 	padding:15px 20px;
 
@@ -642,7 +643,7 @@ body{
 	top:12px;
 	height:25px;
 	width:50px;
-	color:#3343a2;
+	
 	background-color: #ffffff;
 	border-radius:50%;
 	text-align: center;
@@ -671,13 +672,4 @@ body{
   text-align: center;
   padding: 20px;
 
-}
-li{
-  color:black;
-}
-ol{
-  color: black;
-}
-a{
-  color: black
 }
