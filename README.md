@@ -37,7 +37,7 @@ Contributing to OneClick Functions is simple:
 
 Ready to start exploring and contributing to OneClick Functions? Here's how:
 
-- Visit the [OneClick Functions website](link) to access the platform.
+- Visit the [OneClick website](link) to access the platform.
 - Check out the repository on [GitHub](link) to learn more about the project and contribute.
 
 ### Contact Us:
