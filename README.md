@@ -21,32 +21,18 @@ In today's fast-paced world, staying updated with the latest advancements in tec
 
 4. User-Friendly Interface: The website features a user-friendly interface, making it easy to navigate and find the resources you need. With just a few clicks, you can access a wealth of knowledge to support your learning journey.
 
-### How to Contribute:
 
-Contributing to OneClick Functions is simple:
 
-1. Fork the Repository: Fork the OneClick Functions repository on GitHub.
+## License
+This project is protected and cannot be copied, modified, or redistributed without explicit permission from the author.
 
-2. Add Resources:Add study materials, course links, or any other relevant resources to the repository.
 
-3. Submit a Pull Request:Once you've made your changes, submit a pull request. Your contribution will be reviewed, and if approved, merged into the main repository.
+Copyright 2023 Harshitha P S
 
-4. Spread the Word:Help us grow the OneClick Functions community by sharing the project with your friends, classmates, and colleagues.
+All rights reserved.
 
-### Get Started:
+This project is protected by copyright law. You may not use, copy, modify, or distribute this software or its contents without explicit written permission from the author.
 
-Ready to start exploring and contributing to OneClick Functions? Here's how:
-
-- Visit the [OneClick website](link) to access the platform.
-- Check out the repository on [GitHub](link) to learn more about the project and contribute.
-
-### Contact Us:
-
-Have questions, suggestions, or feedback? We'd love to hear from you! Get in touch with us via email at [contact@oneclick.com](mailto:email).
-
-### License:
-
-OneClick Functions is licensed under the MIT License. See the [LICENSE](link) file for details.
 
 ---------------------------------------------------------------------------------
 
